@@ -25,6 +25,8 @@ Keep just your essentials visible, or expand for music controls, game informatio
 - **See where your time goes.** Browse your local game and server playtime, sort the results and reset your statistics whenever you want.
 - **Choose your signals.** Enable player-count trends or separate player/ping rise warnings. Brief red indicators draw attention without changing the bar's size.
 
+**And more — explore the modules and make Notch your own.**
+
 <p align="center"><img src="media/playtime-statistics.png" alt="Local game and server playtime statistics in ATLAS Notch — sample data" width="970"></p>
 
 ## Make it feel like your desktop
