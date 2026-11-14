@@ -1,56 +1,60 @@
-<p align="center"><img src="media/notch-preview.png" alt="ATLAS Notch — native glass bar at different display scales" width="1100"></p>
-
 # ATLAS Notch
 
-**Your games, music and essentials — one glance away.**
+### Your desktop. In one place.
 
-A compact Windows bar with flowing blue and cyan ribbons, a glass surface and layouts that grow with you. Keep the information you want at the screen edge, without filling your desktop with separate widgets.
+ATLAS Notch is a compact, customisable bar for Windows that brings your games, music and everyday information to the edge of your screen. A glance shows what matters. A click opens more space.
 
-<p align="center"><img src="media/notch-motion.gif" alt="Native ATLAS Notch animation preview with all three sizes" width="1000"></p>
+Flowing blue and cyan ribbons, a glass surface, moving highlights and subtle glints make it feel alive — while your desktop stays yours.
 
-## Make the space yours
+<p align="center"><img src="media/notch-preview.png" alt="ATLAS Notch — actual Small, Medium and Large layouts" width="1100"></p>
 
-- **Three independent layouts.** Small: 1–2 modules. Medium: 3–5. Large: 6–8. Choose the content, reorder modules and keep a different arrangement for each size.
-- **Game and server information.** Recognise supported Steam and other launcher games. Show the exact server's player count and measured latency when the game and server expose enough information. If server details are unavailable, keep the game name visible.
-- **Music within reach.** See the current title and artist above accessible playback controls, using Windows media sessions.
-- **CPU, GPU and RAM.** Keep an eye on usage with stable numeric spacing.
-- **Your everyday essentials.** Local time, 12/24-hour formats, date, calendar, volume and a focus timer.
-- **Local playtime statistics.** Browse time spent in games and on identified servers, sort the results and reset them when you choose.
-- **Optional Atlas Account Changer integration.** With a compatible AAC Bridge v4, view shared groups, display names and avatars, request a switch and see its progress. AAC performs and confirms the switch. Login names and credentials are not supplied to Notch.
+## Small when you want it. More when you need it.
 
-<p align="center"><img src="media/modules.png" alt="Choose modules for each Notch size in the settings" width="1000"></p>
+Keep just your essentials visible, or expand for music controls, game information and PC stats. Build a different layout for each size and arrange your modules in the order that feels right.
 
-## Built to feel at home
+**Small · 1–2 modules &nbsp; | &nbsp; Medium · 3–5 modules &nbsp; | &nbsp; Large · 6–8 modules**
 
-Customise colour, transparency and motion. Dock at the top or bottom, choose a display and position, enable Windows startup, or let Notch slide away while no game is running. Flowing ribbon strands, changing highlights and subtle glints keep the original blue/cyan look alive.
+<p align="center"><img src="media/notch-motion.gif" alt="The real Notch with continuously moving ribbon strands in all three sizes" width="1100"></p>
 
-Optional player-count trends and separate player/ping rise warnings let you choose what matters. Warnings appear briefly without changing the bar's size. Settings save automatically.
+## What can your Notch do?
 
-<p align="center"><img src="media/statistics.png" alt="ATLAS Notch local playtime statistics with sample game sessions" width="1000"></p>
+- **Stay with your game.** See supported Steam and other launcher games, with player count and measured latency when their server information is available. When only the game is identified, its name stays visible.
+- **Keep your music close.** See the track and artist, then pause, play or skip with controls directly in the bar. Notch uses your player's Windows media session.
+- **Watch your PC.** See CPU, GPU and RAM usage with steady spacing that keeps the bar calm as the numbers change.
+- **Keep the essentials handy.** Add local time, a 12/24-hour clock, date, calendar, volume or a focus timer.
+- **See where your time goes.** Browse your local game and server playtime, sort the results and reset your statistics whenever you want.
+- **Choose your signals.** Enable player-count trends or separate player/ping rise warnings. Brief red indicators draw attention without changing the bar's size.
+
+<p align="center"><img src="media/statistics.png" alt="Local game and server playtime statistics in ATLAS Notch — sample data" width="970"></p>
+
+## Make it feel like your desktop
+
+Choose your colours and glass transparency. Place Notch at the top or bottom of the display, adjust its position and choose your preferred size. Set it to start with Windows, or slide out of view while no game is running and return when a game is detected.
+
+Module changes save automatically. Notch also handles official updates, keeping your saved settings and playtime with you.
+
+<p align="center"><img src="media/modules.png" alt="Choose and arrange the modules you want in each Notch layout" width="970"></p>
 
 ## Get ATLAS Notch
 
-**USD $1.99 · one-time purchase.** The first-install package will be available through our sales page.
+**USD $1.99 · one-time purchase**
 
-<!-- PURCHASE_URL: intentionally empty until the Fourthwall product link is supplied. -->
+**Purchase link coming soon.**
 
-Already own Notch? This repository is the official update channel. It contains product information and **update-only packages**, not the first-install sales package or application source code.
+<!-- PURCHASE_URL: leave empty; insert the user's purchase/payment link here when supplied. -->
 
-## Updates that stay simple
+## Optional: Atlas Account Changer
 
-From version 1.0, Notch checks the official channel automatically, verifies the publisher signature and downloaded file, then closes, updates and restarts. Your saved settings and playtime remain. No GitHub account or release-address entry is needed.
+Want to switch Steam accounts from your Notch? Add **[Atlas Account Changer →](https://github.com/BluelineDE/atlas-account-changer)**, a separate optional ATLAS app.
 
-**Moving from the beta?** Existing betas were built before this channel was configured. Run the [1.0 update package](https://github.com/BluelineDE/atlas-notch/releases) once with Notch installed. Later updates are handled by Notch. An update-only package refuses a missing or invalid main installation.
+With a compatible AAC Bridge v4, Notch shows your shared account groups, display names and avatars. Choose an account and see the switch progress beside it; AAC performs and confirms the switch. Login names and credentials stay with AAC. You can also use Notch independently.
 
-Release 1.0 starts without patch notes. Later updates can show their changes once after updating.
+## A few practical details
 
-## Good to know
+Windows x64. Music controls depend on the media session exposed by your player. Exact server details depend on the game, the server's reachable status service and network permission; status-query or ICMP latency can differ from the game's own ping. Private Minecraft Java servers can supply status/player counts when their status service is reachable and enabled.
 
-- Windows x64. Music depends on the media session exposed by your player.
-- Exact server information depends on the game, server protocol, reachable status endpoint and network permission. Private Minecraft Java servers can provide status/player counts when their status service is reachable and enabled; universal detection or access to protected servers is not promised.
-- Query/ICMP latency is a measured network/status round trip and can differ from the game's own ping.
-- Some server detection uses the optional protected ATLAS network service, enabled with one Windows administrator approval. Notch does not need Steam passwords.
-- Settings and playtime are stored locally, encrypted for the current Windows user. Backup retention is limited to five encrypted backups.
-- Screenshots and animations show the native app using clearly isolated sample data.
+Some automatic server detection uses the protected ATLAS network service, enabled with one Windows administrator approval. Settings and playtime are stored locally, encrypted for the current Windows user, with up to five encrypted backups.
 
-Made by **BlueLineDE**. ATLAS Notch is proprietary software; this repository does not grant an application source-code licence.
+Images and animations show native Notch components with sample data.
+
+Made by **BlueLineDE**.
