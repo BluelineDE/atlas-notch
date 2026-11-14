@@ -42,11 +42,11 @@ Module changes save automatically. Notch also handles official updates, keeping 
 **[Get ATLAS Notch →](https://bluelinede-shop.fourthwall.com/en-eur#top)**
 
 
-## Optional: Atlas Account Changer
+## Explore the ATLAS family
 
-Want to switch Steam accounts from your Notch? Add **[Atlas Account Changer →](https://github.com/BluelineDE/atlas-account-changer)**, a separate optional ATLAS app.
+There's more to discover in the ATLAS family. Meet **[ATLAS Account Switcher →](https://github.com/BluelineDE/atlas-account-changer)**, a companion app for organising your Steam accounts into groups and switching between them.
 
-With a compatible AAC Bridge v4, Notch shows your shared account groups, display names and avatars. Choose an account and see the switch progress beside it; AAC performs and confirms the switch. Login names and credentials stay with AAC. You can also use Notch independently.
+Use the apps on their own, or connect them with a compatible AAC Bridge v4 to bring your shared groups, account display names and avatars into Notch. Pick an account in the bar and follow its switching progress while Account Switcher performs and confirms the change. Login names and credentials stay with Account Switcher.
 
 ## A few practical details
 
@@ -55,3 +55,9 @@ Windows x64. Music controls depend on the media session exposed by your player. 
 Some automatic server detection uses the protected ATLAS network service, enabled with one Windows administrator approval. Settings and playtime are stored locally, encrypted for the current Windows user, with up to five encrypted backups.
 
 Images and animations show native Notch components with sample data.
+
+## Feedback & bug reports
+
+Found a problem, spotted a bug, or have an idea? **[Report a bug or share feedback →](https://github.com/BluelineDE/atlas-notch/issues/new)**
+
+Include your Notch version, what happened and how to reproduce it. Screenshots are welcome.
