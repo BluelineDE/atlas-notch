@@ -6,7 +6,7 @@ ATLAS Notch is a compact, customisable bar for Windows that brings your games, m
 
 Flowing blue and cyan ribbons, a glass surface, moving highlights and subtle glints make it feel alive — while your desktop stays yours.
 
-<p align="center"><img src="media/notch-motion.gif" alt="The real Notch with continuously moving ribbon strands in all three sizes" width="1100"></p>
+<p align="center"><img src="media/notch-overview.gif" alt="The real Notch with continuously moving ribbon strands in all three sizes" width="1100"></p>
 
 ## Small when you want it. More when you need it.
 
@@ -25,7 +25,7 @@ Keep just your essentials visible, or expand for music controls, game informatio
 - **See where your time goes.** Browse your local game and server playtime, sort the results and reset your statistics whenever you want.
 - **Choose your signals.** Enable player-count trends or separate player/ping rise warnings. Brief red indicators draw attention without changing the bar's size.
 
-<p align="center"><img src="media/statistics.png" alt="Local game and server playtime statistics in ATLAS Notch — sample data" width="970"></p>
+<p align="center"><img src="media/playtime-statistics.png" alt="Local game and server playtime statistics in ATLAS Notch — sample data" width="970"></p>
 
 ## Make it feel like your desktop
 
@@ -33,7 +33,7 @@ Choose your colours and glass transparency. Place Notch at the top or bottom of 
 
 Module changes save automatically. Notch also handles official updates, keeping your saved settings and playtime with you.
 
-<p align="center"><img src="media/modules.png" alt="Choose and arrange the modules you want in each Notch layout" width="970"></p>
+<p align="center"><img src="media/module-layout.png" alt="Choose and arrange the modules you want in each Notch layout" width="970"></p>
 
 ## Get ATLAS Notch
 
