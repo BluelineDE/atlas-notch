@@ -39,9 +39,8 @@ Module changes save automatically. Notch also handles official updates, keeping 
 
 **USD $1.99 · one-time purchase**
 
-**Purchase link coming soon.**
+**[Get ATLAS Notch →](https://bluelinede-shop.fourthwall.com/en-eur#top)**
 
-<!-- PURCHASE_URL: leave empty; insert the user's purchase/payment link here when supplied. -->
 
 ## Optional: Atlas Account Changer
 
