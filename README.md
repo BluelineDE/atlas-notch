@@ -46,7 +46,7 @@ Module changes save automatically. Notch also handles official updates, keeping 
 
 There's more to discover in the ATLAS family. Meet **[ATLAS Account Switcher →](https://github.com/BluelineDE/atlas-account-changer)**, a companion app for organising your Steam accounts into groups and switching between them.
 
-Use the apps on their own, or connect them with a compatible AAC Bridge v4 to bring your shared groups, account display names and avatars into Notch. Pick an account in the bar and follow its switching progress while Account Switcher performs and confirms the change. Login names and credentials stay with Account Switcher.
+Use the apps on their own, or connect them to bring your account groups into Notch.
 
 ## A few practical details
 
