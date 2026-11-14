@@ -6,7 +6,7 @@ ATLAS Notch is a compact, customisable bar for Windows that brings your games, m
 
 Flowing blue and cyan ribbons, a glass surface, moving highlights and subtle glints make it feel alive — while your desktop stays yours.
 
-<p align="center"><img src="media/notch-preview.png" alt="ATLAS Notch — actual Small, Medium and Large layouts" width="1100"></p>
+<p align="center"><img src="media/notch-motion.gif" alt="The real Notch with continuously moving ribbon strands in all three sizes" width="1100"></p>
 
 ## Small when you want it. More when you need it.
 
@@ -14,7 +14,7 @@ Keep just your essentials visible, or expand for music controls, game informatio
 
 **Small · 1–2 modules &nbsp; | &nbsp; Medium · 3–5 modules &nbsp; | &nbsp; Large · 6–8 modules**
 
-<p align="center"><img src="media/notch-motion.gif" alt="The real Notch with continuously moving ribbon strands in all three sizes" width="1100"></p>
+
 
 ## What can your Notch do?
 
@@ -55,5 +55,3 @@ Windows x64. Music controls depend on the media session exposed by your player. 
 Some automatic server detection uses the protected ATLAS network service, enabled with one Windows administrator approval. Settings and playtime are stored locally, encrypted for the current Windows user, with up to five encrypted backups.
 
 Images and animations show native Notch components with sample data.
-
-Made by **BlueLineDE**.
